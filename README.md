@@ -46,6 +46,30 @@ Team Member 2:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+## Conspicuity Detection in Production: A Quantum Approach (4 Weeks)
+
+This project explores using **quantum computing** to improve production efficiency. Here's the gist:
+
+* **Problem:** Traditional methods for analyzing production data (images, time series) to identify inefficiencies are slow.
+* **Solution:** We'll use **hybrid quantum computing**, combining classical and quantum techniques, to potentially speed up this process.
+* **Focus:** Implementing and comparing quantum algorithms against classical methods like machine learning.
+* **Project Duration:** 4 weeks (July 5th - August 9th, 2024)
+
+**Project Tasks:**
+
+1. **Get Quantum Ready:** Learn the basics of **PennyLane**, a popular quantum computing library. This involves understanding qubits, gates, and building quantum circuits.
+2. **Master Quantum Machine Learning:** Build a simple quantum classifier model using PennyLane. This will solidify your understanding of applying machine learning in a quantum setting.
+3. **Level Up with Quanvolutional Neural Networks:** Explore a more complex model called a Quanvolutional Neural Network (inspired by Convolutional Neural Networks) using a real-world dataset of handwritten digits (MNIST). This will push your skills in implementing and understanding advanced quantum algorithms.
+
+**Benefits:**
+
+* Gain hands-on experience with quantum computing.
+* Learn how quantum algorithms can solve real-world problems.
+* Compete for Womanium grants and fellowships.
+
+**Ready to take on the challenge? Join the project and explore the future of production optimization!**
+
+
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
